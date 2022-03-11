@@ -1,0 +1,26 @@
+
+.data{
+    padding-top: 40px;
+
+    text-align: center;
+    background-color: rgb(189, 209, 214);
+    padding-block: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    text-align: center;
+    background-color: rgb(216, 107, 6);
+}
+table{
+    
+    border: solid 1px #DDD;
+            border-collapse: collapse;
+            padding: 2px 3px;
+            text-align: center;
+        font-style: italic;
+        font-weight: bold;
+        -o-table-baseline: initial;
+       
+        
+    background-color: rgb(71, 250, 17);
+}
