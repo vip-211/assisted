@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.simplilearn.FacebookTest" duration-ms="91888" started-at="2022-03-26T11:44:22 IST" finished-at="2022-03-26T11:45:54 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="91888" started-at="2022-03-26T11:44:22 IST" finished-at="2022-03-26T11:45:54 IST">
+      <class name="com.simplilearn.FacebookTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.simplilearn.FacebookTest@7f13d6e]" name="beforeMethod" is-config="true" duration-ms="10" started-at="2022-03-26T11:44:22 IST" finished-at="2022-03-26T11:44:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="launchAma()[pri:0, instance:com.simplilearn.FacebookTest@7f13d6e]" name="launchAma" duration-ms="25285" started-at="2022-03-26T11:44:22 IST" finished-at="2022-03-26T11:44:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAma -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.simplilearn.FacebookTest@7f13d6e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-03-26T11:44:47 IST" finished-at="2022-03-26T11:44:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.simplilearn.FacebookTest@7f13d6e]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2022-03-26T11:44:48 IST" finished-at="2022-03-26T11:44:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testTitle()[pri:0, instance:com.simplilearn.FacebookTest@7f13d6e]" name="testTitle" duration-ms="1" started-at="2022-03-26T11:44:48 IST" depends-on-methods="com.simplilearn.FacebookTest.launchAma" finished-at="2022-03-26T11:44:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitle -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.simplilearn.FacebookTest@7f13d6e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-03-26T11:44:48 IST" finished-at="2022-03-26T11:44:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.simplilearn.FacebookTest@7f13d6e]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2022-03-26T11:44:48 IST" finished-at="2022-03-26T11:44:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="login()[pri:2, instance:com.simplilearn.FacebookTest@7f13d6e]" name="login" duration-ms="30432" started-at="2022-03-26T11:44:48 IST" finished-at="2022-03-26T11:45:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.simplilearn.FacebookTest@7f13d6e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-03-26T11:45:18 IST" finished-at="2022-03-26T11:45:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.simplilearn.FacebookTest@7f13d6e]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2022-03-26T11:45:18 IST" finished-at="2022-03-26T11:45:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addToCart()[pri:3, instance:com.simplilearn.FacebookTest@7f13d6e]" name="addToCart" duration-ms="35904" started-at="2022-03-26T11:45:18 IST" finished-at="2022-03-26T11:45:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.simplilearn.FacebookTest@7f13d6e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-03-26T11:45:54 IST" finished-at="2022-03-26T11:45:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.simplilearn.FacebookTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.simplilearn.FacebookTest -->
+</testng-results>
